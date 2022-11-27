@@ -1,0 +1,39 @@
+.carusel {
+  height: 500px;
+}
+
+.badge1 {
+  background: greenyellow;
+}
+
+.badgeDos {
+  background: rgb(181, 86, 196);
+}
+.badge3 {
+  background: rgb(255, 132, 0);
+}
+
+.badge4 {
+  background: #0093e8, #b3b3b3;
+  background-image: linear-gradient(160deg, #0093e8 0%, #b3b3b3 100%);
+}
+
+.badge5 {
+  background: rgb(114, 208, 255);
+}
+
+.badge6 {
+  background: rgb(38, 105, 54);
+}
+
+.badge7 {
+    background: rgb(255, 11, 121);
+  }
+
+  .badge8 {
+    background: rgb(131, 132, 131);
+  }
+  
+  .bgDetalles {
+    background: rgb(205, 205, 205);
+  }
